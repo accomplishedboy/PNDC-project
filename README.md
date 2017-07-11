@@ -1,4 +1,4 @@
-# LPND-project
+# PNDC-project
 
 This Project that aimed to detecting nodules in lung and classify whether that nodule is benign or malignant is developed by
 Jihoon Han for Graduation project.
